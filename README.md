@@ -1,4 +1,4 @@
-<h1 align="center">Ung Quang Trí (Tri Ngo)</h1>
+<h1 align="center">Tri Minh Ngo</h1>
 
 <p align="center">
 SE @ UIT • Backend (Spring Boot) & Android • AI/RAG, Data & DevOps
